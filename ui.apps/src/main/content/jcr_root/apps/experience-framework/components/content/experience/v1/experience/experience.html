@@ -1,0 +1,6 @@
+<div data-sly-use.experience="com.kayrasolutions.aem.experienceframework.api.models.experience.Experience"
+     data-sly-use.content="content.html"
+     class="${experience.intent @ join = ' '} ${experience.style @ join = ' '}"
+     data-sly-element="${experience.type ? experience.type : 'div'}">
+    <sly data-sly-call="${content.template @ experience = experience}"/>
+</div>
