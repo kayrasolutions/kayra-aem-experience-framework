@@ -19,7 +19,7 @@
     <groupId>com.kayrasolutions.aem.experienceframework</groupId>
     <artifactId>experience-framework</artifactId>
     <packaging>pom</packaging>
-    <version>1.0.0-SNAPSHOT</version>
+    <version>1.0.0</version>
     <description>Kayra Solutions - AEM Experience Component Framework</description>
     <name>Kayra Solutions - AEM Experience Component Framework</name>
     <url>https://github.com/kayrasolutions/kayra-aem-experience-framework</url>
